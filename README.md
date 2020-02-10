@@ -10,4 +10,6 @@ I decided to build the project using HTML5 Canvas, Javascript and include a mini
 
 Note: the boss will die in 3 hits for demonstration purposes.
 
+Use the files within the deploy folder to play the game.
+
 IMPORTANT: The game must be run on the latest version of Google Chrome.
